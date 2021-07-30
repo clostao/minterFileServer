@@ -1,0 +1,6 @@
+node_modules/
+public/
+bin/
+.idea/
+
+package-lock.json
