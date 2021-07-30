@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "molten-reserve-321412",
+  "private_key_id": "71bfbbf42fcc2ee0b35a3af0c4e008fc483ffc40",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2PnewWR+zCeaA\nmeXKersLwW6RkxH8O7sJcnRqZEKSvmQq6ZDO+JmbVARTyR+yV7KqQs/pOb3ZVLrA\nVdywEe2YcAz2hQvZVCAr74kHdQtx6rGDk78jeCIhhfC4PLiwoCA2VJR/lK3Z6Cvz\njiTrtg3RCnbE0A2RfGLKgGu1d2T7ktUwHeLtCOKnkKTm40mM/j+h1wgBHzclOaPU\nQutVymgAMSxHPzZzHASCqeHkf8wBLNHs4bfufkF7G/C8mTqTl6SMa2C0/RRXt9xM\ns/Ylf+oSP/WdzgvvrTpg+XoJLaI/NSV4clFDTdLI34RycOOfgXmwq/oS4lmV1WaD\nMZ537Y2BAgMBAAECggEAFISxt9F++crJcIzzM+HvzX3mn537+ka00xZXcFOPscMd\nFr5DgyP28meqEY9dQdhxGY2KaEcrnmyVVpqMLWglVKJ3+SjnWb2Inj26szPcuSOL\n/yULMfiAej8A6FNQ1XT/z3IkIn2YOcaTrTkho8a0ZUbc8qF8h5bmLge5qL2TqWWw\n3pn45jLYmLcBnWOm35rC2U8laaolXmuNC6jz/9C+3xtb9XRkIyRDlHzhDqgvXvnd\nnHmfw+FwGEEMMCn5US/kQt0Lyn47TZ2FAjJELfmNdarFpGce5r66c8PHswWhtART\n31bOgvYfasM5SGX3HQBbo68tURpUdBc+s0zPHOW/WQKBgQDl8pYKan9WQ2NtQeBx\nQ2S57+mLbylrDQnsiigyNn5ijkYH/0Yk2nYh9tMnJwZz/YwfjZ9Ml9y5xiDxRmi8\nL141Xm3IPz3loAiLlxZdmJpUi1rWzhZGic6b392NcJ+7lLevWNsSGZcTksbmvv9U\nHdZ1Eds/0henGkGYwv7owRyAKQKBgQDK5Eii2BhJHsvkLUQG/acFKDCAJ5V1D2yl\nRW3nGvFkVgmebAji6cxZdnAWbtRuAmnzHSLQCji8O4oSl8XRBk12sxdHAPwnFewN\ni7mf++qfFzr6sltfYesnjJA1njYJi+R8tsahy5qWbnmEXXuhXehIwVNhJsUZx9WB\nbebTnSftmQKBgQCgvhy+uUW8kq0NclCoPJlMFXbn/tQwPlQio02IFGnzEUvJSVzK\nZGDSS029/9zV9ncek4y5KSumPedHYpXSfzZXDmSl5/en7mAq3HpJAWVZFnVw1W3i\n73CbrDmfJwyyPzrMe8vgcj0W9LLQGNI6BgWlns7qZT4dlRAn7p/tKxl2SQKBgDWB\nXFJtkIH/+B8VfOInFFu8zIWPas+zIKC5HZGbvlsKgYDg1rsYkwZowIh589WLF2vA\nnESm3W1ueiwLEGTeN6F8+z+DV/vqwRSVa39wTOBlnO0uCgCubvhADmvFbFS6Kqhk\n/x799aeEPNGWYZsdi7tcGGP/eG0jEQAP/paB1FzJAoGAFYf2JCw6z1cdwnbkV0Ku\n4tS477z/AvqokkEYys+pr+ndlLwQzs6njF5EXJ5jBujLR0SaPN9PVQz8N7BWGwQe\nk1/0JlvkoNHWf3rYXcZTbQE/mqK96b6liaFVlQF+zpEDwKuolh8oRgwo198o2rTm\n+czndfwxvkPaeD6LHnnmSzA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "storage@molten-reserve-321412.iam.gserviceaccount.com",
+  "client_id": "117661334698837909244",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storage%40molten-reserve-321412.iam.gserviceaccount.com"
+}
