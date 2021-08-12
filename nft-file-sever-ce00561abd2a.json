@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nft-file-sever",
+  "private_key_id": "ce00561abd2a982b22de7037e8f754617ecbd203",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCGAGFdbLCs5mHQ\nkdSzej/3AHfY3R7GekRrLCar/x/ec3VwXlEeeMfIk/IOcd21aj36mtO87AC9htrJ\n4iftWFL933m9aDbCnwAFKSK3MxndPAjTEpIn+TKI90PscX39wrYoD7QXC9XpI9zd\nue4cl4mWgFfva40tsqx4S/uPZgQ0VHd9XyZ14fSpYB9pR3B5AUYblJpvvKHqSHEg\nT8tUcIdg3u5+vbSGClcqONPo6LAMgCkH7I5REU5Q4g5uUJOCpe88KrUuSBxLTLlq\nXOnZq6OLNAENSc57ZDQv9+Er5EN8nEYlL8IhmUt9MWSHWJhNOI34wKEIR0uwUCf5\nYVCeDHPFAgMBAAECggEAJWEux9pdcGW1rHI5pLU56aOCSwbnolMSCdlfkkQRNkL7\n5BQTSc5EYLHQaHIf+A7CaklNPlqRHE1lc8J4A8/LGtF/irPq7qBe55Ghgvwov1uT\nVJnOFoN/stBS7L59+E8b9BHpWTJugeIEpv9KKkSlV0vG+90DHVfFn6sGaep5ysTL\n2Irx0yXiXMW3EgGOfyIKBOrzbPzoaBCA03EGCy/CDCMVDFLGoXfCbqmDvOsPw+Sg\noBb9DPMcMkVIUcaUXsz7Ohg/sHkw3ETRqCduRfgr7LkoUCM9ofyWxmT9ID+nDfkD\nr3pC4QrQLdJvNEPgQDpei40r3FIvGE52upsph7n+owKBgQC6b0vmiqKRM50H3JkC\naL5mXRIWLakJODc85KS7RGddtgPIbS0UmbKhH1ljlP3tGrjanG+Da8A6HQJLtzOp\nLgN8BkoptZfoF2IAejT82HVIz1whXa+DiJzxnHdJe5sViswdYW0N2T30SJxfHDxP\nN/CfgDECS9bjjvnuKUDJKTg0FwKBgQC4AIeubl0ow2biCHmhd3p/67Lbo5yB63Ja\nW45AVfh+4rEtrkGrC50Ff3UZhAcmhaPe835CRbvSzynEMuVZN4KLFbup0DXMClTw\nHHfLUkVRgAb+fvRp65k95jrM129a4t0cKXIcVFHip5bKzhrtTCo6E1JX2hOIElwL\nLmfC+ogUgwKBgEmM5PXD1dTQ9u+GEPtJVWxO5XbIdrqDag9k6LRUjS8EQsPMho9s\n/3LfSkWmHvNuqmTceIXxeXmzvhce5Ium8or4dEO2N4LBztD/ZW4m+0ZJQECNlFOh\nDsGnB8x+rjU2d8ZTjFF9VhrMlpxTKFvcZtqWGT+dqd5GpsVVkxCJaXnrAoGAJVJO\nMw5FrRf9TUmkyiB+42V+cNh9zUhheHxrnRcTAUGf6IEY5sXDQrM4oEVMYf7nXziK\nWozkbP0CHr6oEHGW8/kjiG0oDEvoMI/FqKL2VnKeeI5tqvJTsd95+8SS3J95c9Xg\nRGjB9zRA/L/TbGBvjDoREKq2HXqD2uy9tSm14lsCgYAbxFQG6HHXf4EwhInCFl6x\nzRXVIFY1BHdMY8JVYsZYy5dHDwnVin2iatdHK2k9Bn9u5rFQyaVOWx64sokat8t7\nyP2sxwNp44guH+c9YaJ9rNgtaFyWcTJcTcr2bjHBGlSgn8cHiPbXAL/zFMSTfZdI\nDrlDyaFpogrt+VDFSc/77Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "storage@nft-file-sever.iam.gserviceaccount.com",
+  "client_id": "117244497337500431677",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storage%40nft-file-sever.iam.gserviceaccount.com"
+}
